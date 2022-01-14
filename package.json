@@ -1,6 +1,6 @@
 {
   "name": "distance_to_time_calculator",
-  "homepage": "https://zithokamvalethu.github.io/DistanceToTimeCalculator.io/",
+  "homepage": "https://zithokamvalethu.github.io/time-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
